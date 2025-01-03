@@ -1,5 +1,5 @@
 <?php
-// Ejercicio 2: Adapter Pattern
+// Adapter Pattern
 interface ArchivoInterface {
     public function abrir();
 }
